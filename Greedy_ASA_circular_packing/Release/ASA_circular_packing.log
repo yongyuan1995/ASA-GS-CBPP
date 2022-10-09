@@ -1,0 +1,56 @@
+﻿  asa.cpp
+C:\Users\yong\Desktop\ASA_GS\ASA-GS\Greedy_ASA_circular_packing\toa.hpp(40,95): warning C4244: 'return': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\yong\Desktop\ASA_GS\ASA-GS\Greedy_ASA_circular_packing\asa.cpp(90,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yong\Desktop\ASA_GS\ASA-GS\Greedy_ASA_circular_packing\asa.cpp(116,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yong\Desktop\ASA_GS\ASA-GS\Greedy_ASA_circular_packing\asa.cpp(116,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yong\Desktop\ASA_GS\ASA-GS\Greedy_ASA_circular_packing\asa.cpp(124,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  toa.cpp
+C:\Users\yong\Desktop\ASA_GS\ASA-GS\Greedy_ASA_circular_packing\toa.hpp(40,95): warning C4244: 'return': conversion from 'double' to 'size_t', possible loss of data
+D:\Install Software\Visual Studio\VC\Tools\MSVC\14.25.28610\include\xstddef(240,54): warning C4018: '<': signed/unsigned mismatch
+D:\Install Software\Visual Studio\VC\Tools\MSVC\14.25.28610\include\xstddef(239): message : while compiling class template member function 'bool std::less<void>::operator ()<const int&,const unsigned int&>(_Ty1,_Ty2) noexcept(<expr>) const'
+          with
+          [
+              _Ty1=const int &,
+              _Ty2=const unsigned int &
+          ]
+D:\Install Software\Visual Studio\VC\Tools\MSVC\14.25.28610\include\algorithm(4171): message : see reference to function template instantiation '_OutIt std::set_difference<_InIt1,_InIt2,_OutIt,std::less<void>>(_InIt1,_InIt1,_InIt2,_InIt2,_OutIt,_Pr)' being compiled
+          with
+          [
+              _OutIt=std::insert_iterator<std::set<int,std::less<int>,std::allocator<int>>>,
+              _InIt1=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>>,
+              _InIt2=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<unsigned int>>>,
+              _Pr=std::less<void>
+          ]
+C:\Users\yong\Desktop\ASA_GS\ASA-GS\Greedy_ASA_circular_packing\toa.cpp(250): message : see reference to function template instantiation '_OutIt std::set_difference<std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>>,std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<unsigned int>>>,std::insert_iterator<std::set<int,std::less<int>,std::allocator<int>>>>(_InIt1,_InIt1,_InIt2,_InIt2,_OutIt)' being compiled
+          with
+          [
+              _OutIt=std::insert_iterator<std::set<int,std::less<int>,std::allocator<int>>>,
+              _InIt1=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>>,
+              _InIt2=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<unsigned int>>>
+          ]
+D:\Install Software\Visual Studio\VC\Tools\MSVC\14.25.28610\include\xstddef(242,43): warning C4018: '<': signed/unsigned mismatch
+D:\Install Software\Visual Studio\VC\Tools\MSVC\14.25.28610\include\algorithm(4140): message : see reference to function template instantiation 'bool std::less<void>::operator ()<const int&,const unsigned int&>(_Ty1,_Ty2) noexcept const' being compiled
+          with
+          [
+              _Ty1=const int &,
+              _Ty2=const unsigned int &
+          ]
+D:\Install Software\Visual Studio\VC\Tools\MSVC\14.25.28610\include\algorithm(4171): message : see reference to function template instantiation '_OutIt std::set_difference<_InIt1,_InIt2,_OutIt,std::less<void>>(_InIt1,_InIt1,_InIt2,_InIt2,_OutIt,_Pr)' being compiled
+          with
+          [
+              _OutIt=std::insert_iterator<std::set<int,std::less<int>,std::allocator<int>>>,
+              _InIt1=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<int>>>,
+              _InIt2=std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<unsigned int>>>,
+              _Pr=std::less<void>
+          ]
+  geometry.cpp
+  lnns.cpp
+C:\Users\yong\Desktop\ASA_GS\ASA-GS\Greedy_ASA_circular_packing\toa.hpp(40,95): warning C4244: 'return': conversion from 'double' to 'size_t', possible loss of data
+  main.cpp
+C:\Users\yong\Desktop\ASA_GS\ASA-GS\Greedy_ASA_circular_packing\toa.hpp(40,95): warning C4244: 'return': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\yong\Desktop\ASA_GS\ASA-GS\Greedy_ASA_circular_packing\main.cpp(16,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1353 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ASA_circular_packing.vcxproj -> C:\Users\yong\Desktop\ASA_GS\ASA-GS\Greedy_ASA_circular_packing\Release\ASA_circular_packing.exe
